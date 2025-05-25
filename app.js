@@ -9,9 +9,10 @@ const Header =()=>{
             </div>
             <div className="nav-items">
                 <ul>
-                    <li>Home</li>
-                    <li>About</li>
-                    <li>conatct us</li>
+                    <li>Search</li>
+                    <li>Offers</li>
+                    <li>Help</li>
+                    <li>Sign in</li>
                     <li>Cart</li>
                 </ul>
             </div>
